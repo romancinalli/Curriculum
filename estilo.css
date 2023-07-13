@@ -1,0 +1,145 @@
+
+.nvText{
+    color: beige; 
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+}
+
+.navbar-custom {
+    background-color: #264653;
+    
+}
+.header {
+    padding: 5rem 0;
+    text-align: center;
+
+}
+  
+#fotoPortada {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+  
+  
+.nombre {
+    padding: 3rem 0 1rem 0;
+}
+
+h1{
+    color: rgb(00, 30, 49);
+}
+
+h6 {
+    font-size: 15px;
+    margin-top: 1rem;
+    color: rgb(00, 30, 49);
+}
+  
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4% 2rem 2% 2rem;
+}
+
+.portfolio {
+    padding: 5% 10% 5% 10%;
+    background-color: #f77f00;
+  }
+  
+  .portfolio h2 {
+    padding-bottom: 30px;
+  }
+  
+  .imgCont {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  
+  .imgCont img {
+    border-radius: 5%;
+    width: 100%;
+    max-width: 240px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+.about{
+    padding: 5% 20%;
+    background-color:#eae2b7 ;
+}
+
+.form{
+    background-color: #f77f00;
+    padding-bottom: 30px; 
+    padding: 10% 0 10% 0;  
+}
+.mb-3 {
+    width: 60%;
+    margin: 0 auto;
+}
+.btn{
+    position: relative;
+    left: 20%; 
+}
+
+
+.footer {
+    color: beige;
+    background-color: rgb(00, 30, 49);
+    display: flex;
+    justify-content: center;
+    padding: 10% 0 15% 0;
+}
+.direccion h5{
+    font-size: 18px;
+}
+.direccion p{
+    font-size: 12px;
+     margin-bottom: 0;
+}
+
+.direccion, .redes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+}
+.redes h5{
+    font-size: 18px;
+}
+
+.icono {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icono i {
+    font-size: 25px;
+    margin: 5px; 
+}
+
+.zocalo{
+    height: 40px;
+    background-color: #264653;  
+}
+.zocalo p{
+    font-size: 10px;
+    color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+  
+  
+  
+  
+  
